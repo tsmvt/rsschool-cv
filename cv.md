@@ -4,7 +4,7 @@
 * **Telegram:** @tsmvt
 ## About myself
 I'm 21 years old. I was born in Siberia, but when I graduated from school I moved in Saint-Petersburg. My major is Innovation Mamagment, but I got into programming last summer. Originally, I studied Python and was sure that I would be a backend-developer, but I quickly wanted to do something more creative and I discovered web development. I am trying to get as much knowledge as possible to gain professional experience. 
-## Skills
+## Skills and Proficiency
 1. HTML5, CSS3
 2. JavaScript Basics
 3. VS Code
