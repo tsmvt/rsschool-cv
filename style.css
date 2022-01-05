@@ -1,0 +1,142 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  min-width: 640px;
+  min-height: 100vh;
+  margin: 0;
+  font-family: "Lucida Fax", "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 18px;
+  color: #73645C;
+  background-color: #F2EDDC;
+}
+
+.page-header {
+  margin-bottom: 40px;
+  color: #73645C;
+  background-color: #F2DDB6;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.page-header .container {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 290px 212px;
+}
+
+.page-header a {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.page-title {
+  margin: 0;
+  margin-bottom: 4px;
+  padding: 0;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 20px;
+}
+
+.about {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+ }
+
+.about-image {
+   width: 240px;
+   height: 370px;
+   padding-top: 40px;
+   padding-bottom: -40px;
+ }
+
+.about-content {
+   padding: 20px 0px 0px 30px;
+   width: 26%;
+   line-height: 24px;
+ }
+
+.about-content p {
+   margin: 0;
+   padding: 0;
+ }
+
+.style1 {
+  width: 60%;
+  background-color:#9CC1D9;;
+ }
+
+.status {
+  width: 26%;
+  line-height: 24px;
+}
+
+.style2 {
+  width: 90%;
+  background-color: #D9814E;
+}
+
+.style3 {
+  background-color: #F2DDB6;
+}
+
+.style4 {
+  width: 30%;
+  background-color: #F2DDB6;
+  line-height: 24px;
+}
+
+.style5 {
+  width: 32%;
+  background-color: #9CC1D9;
+  line-height: 24px;
+}
+.status p {
+  margin: 0;
+  padding-top: 10px;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+.skill {
+  padding-top: -20px;
+  line-height: 24px;
+}
+.code-style {
+  background-color: #9CC1D9;
+  margin: 0px 140px 20px;
+  padding: 0px;
+}
+
+.page-footer {
+  margin-top: auto;
+  color: #73645C;
+  background-color: #F2DDB6;
+}
+
+.page-footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Lucida Fax", "Times New Roman", serif;
+  padding-top: 12px;
+  padding-bottom: 14px;
+}
+
+.page-footer p {
+  margin: 0;
+  padding: 0;
+}
